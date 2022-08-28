@@ -6,6 +6,8 @@ and I need to show the shortest or cheapest path (depending on the algorithm) to
 
 I implemented the following algorithms: BFS, DFID, A*, IDA*, DFBnB.
 
+I built a smart heuristic function.
+
 I solved the problem in a general way that could also fit the solution of 8 puzzles.
 
 
